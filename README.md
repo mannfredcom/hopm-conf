@@ -8,3 +8,8 @@ This repository contains automatically generated scanner block configurations fo
 ### Recent Top Trends
 
 ![Image](plots/ports.png "Top Ports")
+
+### Contact
+
+* E-mail: [mannfred@gmail.com](mailto:mannfred@gmail.com)
+* Web: [Thomas Mannfred Carlsson](https://mannfred.com/)
