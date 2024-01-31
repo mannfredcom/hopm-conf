@@ -11,7 +11,7 @@ This repository contains automatically generated scanner block configurations fo
 | Top 100 | [hopm_scanner_protocol_top_100.conf](https://github.com/MannfredCom/hopm-conf/blob/main/hopm_scanner_protocol_top_100.conf)
 | Top 200 | [hopm_scanner_protocol_top_200.conf](https://github.com/MannfredCom/hopm-conf/blob/main/hopm_scanner_protocol_top_200.conf)
 
-The data originates from active scanning on behalf of the [rbl.efnet.org](https://rbl.efnetrbl.org/) DNS blocklist. The data is verified and up-to-date.
+The data originates from active 24/7 scanning on behalf of DNS blocklists. The data is verified and up-to-date.
 
 ### Recent Top Trends
 
