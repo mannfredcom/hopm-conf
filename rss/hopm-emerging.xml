@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>HOPM emerging open-proxy ports</title>
+  <link>https://github.com/mannfredcom/hopm-conf</link>
+  <description>Alerts when a protocol:port newly climbs into the scannable (t--&gt;) open-proxy top ranks, so HOPM operators can extend coverage. Built from the semi-static proxy scan history.</description>
+  <lastBuildDate>Fri, 24 Apr 2026 12:00:00 +0000</lastBuildDate>
+  <generator>gen_rss.pl</generator>
+  <item>
+    <title>Emerging scannable proxy port: HTTP:1221 (now #10, ~1.77% of scannable IPs)</title>
+    <link>https://github.com/mannfredcom/hopm-conf</link>
+    <guid isPermaLink="false">hopm-emerging:HTTP:1221@2026-04-24</guid>
+    <pubDate>Fri, 24 Apr 2026 12:00:00 +0000</pubDate>
+    <description>HTTP on port 1221 has climbed into the scannable open-proxy top ranks: ~1.77% of confirmed t--&gt; (entry==exit) proxies over the last 30 days, ranked #10, up from ~0.0% in the prior 90 days. HOPM operators may want to ensure HTTP:1221 is covered by their scanner config.</description>
+  </item>
+  <item>
+    <title>Emerging scannable proxy port: HTTP:22222 (now #14, ~1.06% of scannable IPs)</title>
+    <link>https://github.com/mannfredcom/hopm-conf</link>
+    <guid isPermaLink="false">hopm-emerging:HTTP:22222@2026-03-06</guid>
+    <pubDate>Fri, 06 Mar 2026 12:00:00 +0000</pubDate>
+    <description>HTTP on port 22222 has climbed into the scannable open-proxy top ranks: ~1.06% of confirmed t--&gt; (entry==exit) proxies over the last 30 days, ranked #14, up from ~0.1% in the prior 90 days. HOPM operators may want to ensure HTTP:22222 is covered by their scanner config.</description>
+  </item>
+  <item>
+    <title>Emerging scannable proxy port: HTTP:6006 (now #5, ~4.02% of scannable IPs)</title>
+    <link>https://github.com/mannfredcom/hopm-conf</link>
+    <guid isPermaLink="false">hopm-emerging:HTTP:6006@2026-01-09</guid>
+    <pubDate>Fri, 09 Jan 2026 12:00:00 +0000</pubDate>
+    <description>HTTP on port 6006 has climbed into the scannable open-proxy top ranks: ~4.02% of confirmed t--&gt; (entry==exit) proxies over the last 30 days, ranked #5, not seen in the prior 90 days. HOPM operators may want to ensure HTTP:6006 is covered by their scanner config.</description>
+  </item>
+  <item>
+    <title>Emerging scannable proxy port: SOCKS:3000 (now #15, ~1.16% of scannable IPs)</title>
+    <link>https://github.com/mannfredcom/hopm-conf</link>
+    <guid isPermaLink="false">hopm-emerging:SOCKS:3000@2025-12-26</guid>
+    <pubDate>Fri, 26 Dec 2025 12:00:00 +0000</pubDate>
+    <description>SOCKS on port 3000 has climbed into the scannable open-proxy top ranks: ~1.16% of confirmed t--&gt; (entry==exit) proxies over the last 30 days, ranked #15, not seen in the prior 90 days. HOPM operators may want to ensure SOCKS:3000 is covered by their scanner config.</description>
+  </item>
+  <item>
+    <title>Emerging scannable proxy port: SOCKS:1100 (now #11, ~1.45% of scannable IPs)</title>
+    <link>https://github.com/mannfredcom/hopm-conf</link>
+    <guid isPermaLink="false">hopm-emerging:SOCKS:1100@2025-09-05</guid>
+    <pubDate>Fri, 05 Sep 2025 12:00:00 +0000</pubDate>
+    <description>SOCKS on port 1100 has climbed into the scannable open-proxy top ranks: ~1.45% of confirmed t--&gt; (entry==exit) proxies over the last 30 days, ranked #11, not seen in the prior 90 days. HOPM operators may want to ensure SOCKS:1100 is covered by their scanner config.</description>
+  </item>
+  <item>
+    <title>Emerging scannable proxy port: SOCKS:1111 (now #12, ~1.28% of scannable IPs)</title>
+    <link>https://github.com/mannfredcom/hopm-conf</link>
+    <guid isPermaLink="false">hopm-emerging:SOCKS:1111@2025-07-25</guid>
+    <pubDate>Fri, 25 Jul 2025 12:00:00 +0000</pubDate>
+    <description>SOCKS on port 1111 has climbed into the scannable open-proxy top ranks: ~1.28% of confirmed t--&gt; (entry==exit) proxies over the last 30 days, ranked #12, up from ~0.1% in the prior 90 days. HOPM operators may want to ensure SOCKS:1111 is covered by their scanner config.</description>
+  </item>
+  <item>
+    <title>Emerging scannable proxy port: HTTP:16000 (now #13, ~1.08% of scannable IPs)</title>
+    <link>https://github.com/mannfredcom/hopm-conf</link>
+    <guid isPermaLink="false">hopm-emerging:HTTP:16000@2025-07-18</guid>
+    <pubDate>Fri, 18 Jul 2025 12:00:00 +0000</pubDate>
+    <description>HTTP on port 16000 has climbed into the scannable open-proxy top ranks: ~1.08% of confirmed t--&gt; (entry==exit) proxies over the last 30 days, ranked #13, up from ~0.3% in the prior 90 days. HOPM operators may want to ensure HTTP:16000 is covered by their scanner config.</description>
+  </item>
+  <item>
+    <title>Emerging scannable proxy port: HTTP:13001 (now #12, ~1.39% of scannable IPs)</title>
+    <link>https://github.com/mannfredcom/hopm-conf</link>
+    <guid isPermaLink="false">hopm-emerging:HTTP:13001@2025-03-28</guid>
+    <pubDate>Fri, 28 Mar 2025 12:00:00 +0000</pubDate>
+    <description>HTTP on port 13001 has climbed into the scannable open-proxy top ranks: ~1.39% of confirmed t--&gt; (entry==exit) proxies over the last 30 days, ranked #12, not seen in the prior 90 days. HOPM operators may want to ensure HTTP:13001 is covered by their scanner config.</description>
+  </item>
+  <item>
+    <title>Emerging scannable proxy port: SOCKS:20000 (now #3, ~7.59% of scannable IPs)</title>
+    <link>https://github.com/mannfredcom/hopm-conf</link>
+    <guid isPermaLink="false">hopm-emerging:SOCKS:20000@2025-03-14</guid>
+    <pubDate>Fri, 14 Mar 2025 12:00:00 +0000</pubDate>
+    <description>SOCKS on port 20000 has climbed into the scannable open-proxy top ranks: ~7.59% of confirmed t--&gt; (entry==exit) proxies over the last 30 days, ranked #3, not seen in the prior 90 days. HOPM operators may want to ensure SOCKS:20000 is covered by their scanner config.</description>
+  </item>
+  <item>
+    <title>Emerging scannable proxy port: HTTP:2324 (now #15, ~1.13% of scannable IPs)</title>
+    <link>https://github.com/mannfredcom/hopm-conf</link>
+    <guid isPermaLink="false">hopm-emerging:HTTP:2324@2025-02-21</guid>
+    <pubDate>Fri, 21 Feb 2025 12:00:00 +0000</pubDate>
+    <description>HTTP on port 2324 has climbed into the scannable open-proxy top ranks: ~1.13% of confirmed t--&gt; (entry==exit) proxies over the last 30 days, ranked #15, up from ~0.0% in the prior 90 days. HOPM operators may want to ensure HTTP:2324 is covered by their scanner config.</description>
+  </item>
+  <item>
+    <title>Emerging scannable proxy port: SOCKS:2324 (now #13, ~1.17% of scannable IPs)</title>
+    <link>https://github.com/mannfredcom/hopm-conf</link>
+    <guid isPermaLink="false">hopm-emerging:SOCKS:2324@2025-02-14</guid>
+    <pubDate>Fri, 14 Feb 2025 12:00:00 +0000</pubDate>
+    <description>SOCKS on port 2324 has climbed into the scannable open-proxy top ranks: ~1.17% of confirmed t--&gt; (entry==exit) proxies over the last 30 days, ranked #13, up from ~0.0% in the prior 90 days. HOPM operators may want to ensure SOCKS:2324 is covered by their scanner config.</description>
+  </item>
+  <item>
+    <title>Emerging scannable proxy port: SOCKS:6530 (now #14, ~1.22% of scannable IPs)</title>
+    <link>https://github.com/mannfredcom/hopm-conf</link>
+    <guid isPermaLink="false">hopm-emerging:SOCKS:6530@2025-01-17</guid>
+    <pubDate>Fri, 17 Jan 2025 12:00:00 +0000</pubDate>
+    <description>SOCKS on port 6530 has climbed into the scannable open-proxy top ranks: ~1.22% of confirmed t--&gt; (entry==exit) proxies over the last 30 days, ranked #14, not seen in the prior 90 days. HOPM operators may want to ensure SOCKS:6530 is covered by their scanner config.</description>
+  </item>
+  <item>
+    <title>Emerging scannable proxy port: SOCKS:31111 (now #15, ~1.05% of scannable IPs)</title>
+    <link>https://github.com/mannfredcom/hopm-conf</link>
+    <guid isPermaLink="false">hopm-emerging:SOCKS:31111@2025-01-03</guid>
+    <pubDate>Fri, 03 Jan 2025 12:00:00 +0000</pubDate>
+    <description>SOCKS on port 31111 has climbed into the scannable open-proxy top ranks: ~1.05% of confirmed t--&gt; (entry==exit) proxies over the last 30 days, ranked #15, not seen in the prior 90 days. HOPM operators may want to ensure SOCKS:31111 is covered by their scanner config.</description>
+  </item>
+  <item>
+    <title>Emerging scannable proxy port: HTTP:16000 (now #10, ~1.96% of scannable IPs)</title>
+    <link>https://github.com/mannfredcom/hopm-conf</link>
+    <guid isPermaLink="false">hopm-emerging:HTTP:16000@2024-12-27</guid>
+    <pubDate>Fri, 27 Dec 2024 12:00:00 +0000</pubDate>
+    <description>HTTP on port 16000 has climbed into the scannable open-proxy top ranks: ~1.96% of confirmed t--&gt; (entry==exit) proxies over the last 30 days, ranked #10, not seen in the prior 90 days. HOPM operators may want to ensure HTTP:16000 is covered by their scanner config.</description>
+  </item>
+  <item>
+    <title>Emerging scannable proxy port: HTTP:1080 (now #15, ~1.04% of scannable IPs)</title>
+    <link>https://github.com/mannfredcom/hopm-conf</link>
+    <guid isPermaLink="false">hopm-emerging:HTTP:1080@2024-10-11</guid>
+    <pubDate>Fri, 11 Oct 2024 12:00:00 +0000</pubDate>
+    <description>HTTP on port 1080 has climbed into the scannable open-proxy top ranks: ~1.04% of confirmed t--&gt; (entry==exit) proxies over the last 30 days, ranked #15, up from ~0.2% in the prior 90 days. HOPM operators may want to ensure HTTP:1080 is covered by their scanner config.</description>
+  </item>
+  <item>
+    <title>Emerging scannable proxy port: HTTP:8089 (now #12, ~1.16% of scannable IPs)</title>
+    <link>https://github.com/mannfredcom/hopm-conf</link>
+    <guid isPermaLink="false">hopm-emerging:HTTP:8089@2024-08-23</guid>
+    <pubDate>Fri, 23 Aug 2024 12:00:00 +0000</pubDate>
+    <description>HTTP on port 8089 has climbed into the scannable open-proxy top ranks: ~1.16% of confirmed t--&gt; (entry==exit) proxies over the last 30 days, ranked #12, up from ~0.3% in the prior 90 days. HOPM operators may want to ensure HTTP:8089 is covered by their scanner config.</description>
+  </item>
+  <item>
+    <title>Emerging scannable proxy port: SOCKS:60606 (now #9, ~1.37% of scannable IPs)</title>
+    <link>https://github.com/mannfredcom/hopm-conf</link>
+    <guid isPermaLink="false">hopm-emerging:SOCKS:60606@2024-08-16</guid>
+    <pubDate>Fri, 16 Aug 2024 12:00:00 +0000</pubDate>
+    <description>SOCKS on port 60606 has climbed into the scannable open-proxy top ranks: ~1.37% of confirmed t--&gt; (entry==exit) proxies over the last 30 days, ranked #9, up from ~0.1% in the prior 90 days. HOPM operators may want to ensure SOCKS:60606 is covered by their scanner config.</description>
+  </item>
+  <item>
+    <title>Emerging scannable proxy port: HTTP:58080 (now #9, ~1.07% of scannable IPs)</title>
+    <link>https://github.com/mannfredcom/hopm-conf</link>
+    <guid isPermaLink="false">hopm-emerging:HTTP:58080@2024-07-19</guid>
+    <pubDate>Fri, 19 Jul 2024 12:00:00 +0000</pubDate>
+    <description>HTTP on port 58080 has climbed into the scannable open-proxy top ranks: ~1.07% of confirmed t--&gt; (entry==exit) proxies over the last 30 days, ranked #9, up from ~0.0% in the prior 90 days. HOPM operators may want to ensure HTTP:58080 is covered by their scanner config.</description>
+  </item>
+  <item>
+    <title>Emerging scannable proxy port: SOCKS:6666 (now #11, ~1.02% of scannable IPs)</title>
+    <link>https://github.com/mannfredcom/hopm-conf</link>
+    <guid isPermaLink="false">hopm-emerging:SOCKS:6666@2024-05-03</guid>
+    <pubDate>Fri, 03 May 2024 12:00:00 +0000</pubDate>
+    <description>SOCKS on port 6666 has climbed into the scannable open-proxy top ranks: ~1.02% of confirmed t--&gt; (entry==exit) proxies over the last 30 days, ranked #11, not seen in the prior 90 days. HOPM operators may want to ensure SOCKS:6666 is covered by their scanner config.</description>
+  </item>
+</channel>
+</rss>
